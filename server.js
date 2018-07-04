@@ -1,8 +1,8 @@
-const express = require ('express');
+const express = require ('express')
 const cors = require('cors')
-const app = express();
+const app = express()
 const data =require('./instructors')
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3000
 
 app.listen(port)
 
