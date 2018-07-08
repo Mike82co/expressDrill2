@@ -2,74 +2,74 @@ module.exports =
 [
     {
       "ID": 1,
-      "Full Name": "Kyle Coberly",
+      "fullName": "Kyle Coberly",
       "Title": "Faculty Director",
-      "Number of Dogs": 0
+      "numberOfDogs": 0
     },
     {
       "ID": 2,
-      "Full Name": "Danny Fritz",
+      "fullName": "Danny Fritz",
       "Title": "Lead Instructor",
-      "Number of Dogs": 0
+      "numberOfDogs": 0
     },
     {
       "ID": 3,
-      "Full Name": "CJ Reynolds",
+      "fullName": "CJ Reynolds",
       "Title": "Lead Instructor",
-      "Number of Dogs": 0
+      "numberOfDogs": 0
     },
     {
       "ID": 4,
-      "Full Name": "Brooks Patton",
+      "fullName": "Brooks Patton",
       "Title": "Lead Instructor",
-      "Number of Dogs": 0
+      "numberOfDogs": 0
     },
     {
       "ID": 5,
-      "Full Name": "Roberto Ortega",
+      "fullName": "Roberto Ortega",
       "Title": "Lead Instructor",
-      "Number of Dogs": 1
+      "numberOfDogs": 1
     },
     {
       "ID": 6,
-      "Full Name": "Chad Drummond",
+      "fullName": "Chad Drummond",
       "Title": "Instructor",
-      "Number of Dogs": 0
+      "numberOfDogs": 0
     },
     {
       "ID": 7,
-      "Full Name": "Kim Schlesinger",
+      "fullName": "Kim Schlesinger",
       "Title": "Instructor",
-      "Number of Dogs": 0
+      "numberOfDogs": 0
     },
     {
       "ID": 8,
-      "Full Name": "Peter Ostiguy",
+      "fullName": "Peter Ostiguy",
       "Title": "Associate Instructor",
-      "Number of Dogs": 1
+      "numberOfDogs": 1
     },
     {
       "ID": 9,
-      "Full Name": "Cass Torske",
+      "fullName": "Cass Torske",
       "Title": "Resident",
-      "Number of Dogs": 1
+      "numberOfDogs": 1
     },
     {
       "ID": 10,
-      "Full Name": "Matt Winzer",
+      "fullName": "Matt Winzer",
       "Title": "Resident",
-      "Number of Dogs": 2
+      "numberOfDogs": 2
     },
     {
       "ID": 11,
-      "Full Name": "Aaron Goodman",
+      "fullName": "Aaron Goodman",
       "Title": "Resident",
-      "Number of Dogs": 0
+      "numberOfDogs": 0
     },
     {
       "ID": 12,
-      "Full Name": "Michelle Bergquist",
+      "fullName": "Michelle Bergquist",
       "Title": "Resident",
-      "Number of Dogs": 1
+      "numberOfDogs": 1
     }
   ]
